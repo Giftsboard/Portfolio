@@ -33,6 +33,8 @@ I'm particularly interested in opportunities where I can combine **analytical th
 ### My Projects
 ~ https://github.com/Giftsboard/HR-Employee-Attrition-Analysis
 
+~ https://github.com/Giftsboard/Bazooka-Product-Availability-Report
+
 ~ 
 
 **Tools & Technologies:**  
