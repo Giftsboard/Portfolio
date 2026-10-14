@@ -35,9 +35,11 @@ I'm particularly interested in opportunities where I can combine **analytical th
 
 ~ https://github.com/Giftsboard/Bazooka-Product-Availability-Report
 
+~ https://github.com/Giftsboard/IKEA-Retail-Performance-Analysis
+
 ~ 
 
-**Tools & Technologies:**  
+**Tools & Skills:**  
 `Power BI` · `SQL` · `DAX` · `Power Query` · `Excel` · `Python` · `Tableau` · `Data Modelling` · `Data Quality` · `Business Analysis`
 
 📌 **Currently exploring:** Data Analytics · Business Intelligence · Power BI · Data Quality & Governance · Business Analysis
