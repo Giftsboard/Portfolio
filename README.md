@@ -1,5 +1,7 @@
 # Hi, I'm Ebunoluwa Olaleye 👋
 
+Ebunoluwa means Gift of God 
+
 ### Data Analyst | Power BI Developer | PL-300 Certified
 
 I’m a commercially minded **Data Analyst and Power BI Developer** with a background in Business Administration and hands-on experience turning complex, messy data into clear and actionable insights. I help businesses solve challenegs and unlock growth.
@@ -55,8 +57,8 @@ Have a data challenge, dashboard idea, or an open analytics role? I'd love to he
 
 📍	Tipton, United Kingdom
 
-⬇️	Download my CV 
+⬇️	Download my CV |
 [CV_Ebunoluwa_Data Analyst.pdf](https://github.com/user-attachments/files/33447223/CV_Ebunoluwa_Data.Analyst.pdf)
 
-🌐	Follow me on LinkedIn 
+🌐	Follow me on LinkedIn |
 www.linkedin.com/in/ebunoluolaleye
