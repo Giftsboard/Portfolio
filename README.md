@@ -39,6 +39,8 @@ I'm particularly interested in opportunities where I can combine **analytical th
 
 ~ 
 
+~ https://github.com/Giftsboard/Python-Projects/blob/54b59af4f61eb8d390ede3ce9e917113f3acf004/COVID_19_Severity_and_Regional_Vulnerability_Analysis.ipynb
+
 **Tools & Skills:**  
 `Power BI` · `SQL` · `DAX` · `Power Query` · `Excel` · `Python` · `Tableau` · `Data Modelling` · `Data Quality` · `Business Analysis`
 
