@@ -19,7 +19,7 @@ In my previous role as a Power BI Developer, I worked with real-world **retail, 
 - 🤝 **Business & Stakeholder Analysis** – understanding business requirements and translating them into data-driven solutions.
 - 🔄 **Reporting & Automation** – improving reporting processes, reducing manual effort and making recurring analysis more efficient.
 
-### Certifications
+### Certifications | PL-300
 [Microsoft certificate.pdf](https://github.com/user-attachments/files/33446384/Microsoft.certificate.pdf)
 
 ### What You'll Find Here
