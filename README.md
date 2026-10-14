@@ -30,6 +30,11 @@ I use these projects to demonstrate not only *what* I can build, but also **how 
 
 I'm particularly interested in opportunities where I can combine **analytical thinking, business understanding and technology** to help organisations make better decisions with their data.
 
+### My Projects
+~ https://github.com/Giftsboard/HR-Employee-Attrition-Analysis
+
+~ 
+
 **Tools & Technologies:**  
 `Power BI` · `SQL` · `DAX` · `Power Query` · `Excel` · `Python` · `Tableau` · `Data Modelling` · `Data Quality` · `Business Analysis`
 
