@@ -60,7 +60,7 @@ Have a data challenge, dashboard idea, or an open analytics role? I'd love to he
 📍	Tipton, United Kingdom
 
 ⬇️	Download my CV |
-[CV_Ebunoluwa_Data Analyst.pdf](https://github.com/user-attachments/files/33447223/CV_Ebunoluwa_Data.Analyst.pdf)
+[Ebunolu_Olaleye_CV.pdf](https://github.com/user-attachments/files/33495281/Ebunolu_Olaleye_CV.pdf)
 
 🌐	Follow me on LinkedIn |
 www.linkedin.com/in/ebunoluolaleye
