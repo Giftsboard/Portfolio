@@ -39,6 +39,8 @@ I'm particularly interested in opportunities where I can combine **analytical th
 
 ~ https://github.com/Giftsboard/IKEA-Retail-Performance-Analysis
 
+~ https://github.com/Giftsboard/Social-Media-Analytics-Revenue-Realization/blob/de8e992ed0ea5a1f318ea53742e03f638afe9dfa/README.md
+
 ~ https://github.com/Giftsboard/Python-Projects/blob/main/HR_Attrition_Project.ipynb
 
 ~ https://github.com/Giftsboard/Python-Projects/blob/54b59af4f61eb8d390ede3ce9e917113f3acf004/COVID_19_Severity_and_Regional_Vulnerability_Analysis.ipynb
