@@ -46,9 +46,9 @@ I'm particularly interested in opportunities where I can combine **analytical th
 ~ https://github.com/Giftsboard/Python-Projects/blob/54b59af4f61eb8d390ede3ce9e917113f3acf004/COVID_19_Severity_and_Regional_Vulnerability_Analysis.ipynb
 
 **Tools & Skills:**  
-`Power BI` · `SQL` · `DAX` · `Power Query` · `Excel` · `Python` · `Tableau` · `Data Modelling` · `Data Quality` · `Business Analysis`
+`Power BI` · `SQL` · `DAX` · `Power Query` · `Excel` · `Python` · `Tableau` · `Data Modelling` · `Data Quality` · `Stakeholder management`
 
-📌 **Currently exploring:** Data Analytics · Business Intelligence · Power BI · Data Quality & Governance · Business Analysis
+📌 **Currently exploring:** R · Business Intelligence · Microsoft Azure & Fabric · Business Analysis
 
 ### Lets Connect
 Have a data challenge, dashboard idea, or an open analytics role? I'd love to hear about it.
